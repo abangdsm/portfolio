@@ -56,7 +56,7 @@
         <!-- Hero Section -->
         <section id="hero" class="hero section light-background">
 
-            <img src="img/hero-bg.jpg" alt="">
+            <img src="img/herodsm.jpg" alt="">
 
             <div class="container" data-aos="zoom-out">
                 <div class="row justify-content-center">
@@ -93,7 +93,7 @@
 
                 <div class="row gy-4 justify-content-center">
                     <div class="col-lg-4">
-                        <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
+                        <img src="img/profile.png" class="img-fluid rounded-circle" alt="">
                     </div>
                     <div class="col-lg-8 content">
                         <h2>Full Stack Developer</h2>
@@ -223,6 +223,14 @@
 
                         <div class="progress">
                             <span class="skill"><span>CodeIgniter</span> <i class="val">80%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div><!-- End Skills Item -->
+
+                        <div class="progress">
+                            <span class="skill"><span>Laravel Filament</span> <i class="val">80%</i></span>
                             <div class="progress-bar-wrap">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0"
                                     aria-valuemax="100"></div>
